@@ -26,7 +26,7 @@ The [Fudge Roll page's Office Mix](https://msdn.microsoft.com/imagine/imagine-cr
 ## How do I use GitHub Desktop to get this?
 Never done this before and just want the files to work with on your own? 
 
-Click on the **Clone in Desktop** button to the right and you'll make a copy of all of these files on your machine that you can work with.  Alternatively, **Download ZIP** and then unzip the files in a familiar location on your computer.
+Click on the small **Clone in Desktop** button and you'll make a copy of all of these files on your machine that you can work with.  Alternatively, **Download ZIP** and then unzip the files in a familiar location on your computer.
 
 Remember where you save these Fudge Roll files, since Unity needs to know where to work!
 
